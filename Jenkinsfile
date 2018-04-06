@@ -1,10 +1,10 @@
 node(){
-    stage("Stage A"){
+    stage("Checkout Repo"){
         echo "Hello jenkins"
-        sh 'ls -alih'
-        //git 'https://github.com/RudaevDima/DemoRepository.git'
+        git 'https://github.com/RudaevDima/DemoRepository.git'
+	sh 'ls -alih'
     }
-    stage("Stage B"){
+    stage("Compile"){
         sh "./script.sh"
         echo "Bye-bye jenkins"
     }
