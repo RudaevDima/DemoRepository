@@ -1,5 +1,4 @@
 # DemoRepository
 For testing purposes
 
-
-# Author: Dima Rudaev
+Author: Dima Rudaev
