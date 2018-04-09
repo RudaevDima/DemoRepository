@@ -1,5 +1,5 @@
 # DemoRepository
 For testing purposes
-Some text...ext..xt.t.t..tx.. 
+Some text...
 
 Author: Dima Rudaev
