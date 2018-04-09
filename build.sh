@@ -1,5 +1,5 @@
 #!/bin/sh -ex
-#now the script shouldn't work #6
+#now the script shouldn't work #7
 
 gcc demo.c -o app2
 ./app
